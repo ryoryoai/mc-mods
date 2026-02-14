@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.example.dragonrider.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "EnderDragonMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

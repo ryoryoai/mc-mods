@@ -1,0 +1,13 @@
+{
+  "item.bullet.magnum_bullet": "マグナム弾",
+  "item.bullet.magnum_heavy_bullet": "マグナム強化弾",
+  "item.bullet.magnum_fire_bullet": "マグナム火炎弾",
+  "item.bullet.grenade_launcher_freeze_grenade": "こおりグレネード",
+  "item.bullet.grenade_launcher_lightning_grenade": "かみなりグレネード",
+  "item.bullet.grenade_launcher_fire_grenade": "ほのおグレネード",
+  "item.bullet.grenade_launcher_acid_grenade": "ようかいグレネード",
+  "item.bullet.grenade_launcher_mining_grenade": "マイニンググレネード",
+  "item.bullet.grenade_launcher_mini_bomb": "ミニボム",
+  "item.bullet.grenade_launcher_bomb": "ボム",
+  "item.bullet.grenade_launcher_mega_bomb": "メガボム"
+}

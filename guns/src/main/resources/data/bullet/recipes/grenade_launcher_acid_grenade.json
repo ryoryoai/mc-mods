@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "ISI",
+    " G "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_nugget" },
+    "S": { "item": "minecraft:slime_ball" },
+    "G": { "item": "minecraft:gunpowder" }
+  },
+  "result": { "item": "bullet:grenade_launcher_acid_grenade", "count": 4 }
+}

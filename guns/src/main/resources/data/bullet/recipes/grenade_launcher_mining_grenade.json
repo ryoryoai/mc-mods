@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "IDI",
+    " G "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_nugget" },
+    "D": { "item": "minecraft:diamond" },
+    "G": { "item": "minecraft:gunpowder" }
+  },
+  "result": { "item": "bullet:grenade_launcher_mining_grenade", "count": 4 }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "bullet:magnum_bullet" },
+    { "item": "minecraft:blaze_powder" }
+  ],
+  "result": { "item": "bullet:magnum_fire_bullet", "count": 8 }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NN",
+    "NN"
+  ],
+  "key": {
+    "N": { "item": "minecraft:iron_nugget" }
+  },
+  "result": { "item": "bullet:magnum_bullet", "count": 8 }
+}

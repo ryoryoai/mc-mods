@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "ITI",
+    " I "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_nugget" },
+    "T": { "item": "minecraft:tnt" }
+  },
+  "result": { "item": "bullet:grenade_launcher_bomb", "count": 4 }
+}

@@ -1,0 +1,25 @@
+name: いなずまのおの
+modId: thunderaxe
+mcVersion: "1.20.1"
+loader: fabric
+features:
+  - type: weapon
+    id: thunder_axe
+    weaponType: axe
+    material: iron
+    attackDamage: 9
+    attackSpeed: 0.9
+    durability: 500
+    effects:
+      - effect: glowing
+        amplifier: 0
+        durationSeconds: 8
+    texture:
+      primaryColor: "#00FFFF"
+      secondaryColor: "#654321"
+      description: "いなずまが はしる てつのおの。シアンと白のジグザグもよう"
+    recipe:
+      pattern: standard_axe
+      ingredients:
+        head: "minecraft:iron_ingot"
+        handle: "minecraft:lightning_rod"

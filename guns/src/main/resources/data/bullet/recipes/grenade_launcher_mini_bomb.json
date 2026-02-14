@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "IGI",
+    " G "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_nugget" },
+    "G": { "item": "minecraft:gunpowder" }
+  },
+  "result": { "item": "bullet:grenade_launcher_mini_bomb", "count": 4 }
+}

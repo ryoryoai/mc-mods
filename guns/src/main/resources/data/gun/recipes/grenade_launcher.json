@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    " DT",
+    " S "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "D": { "item": "minecraft:dispenser" },
+    "T": { "item": "minecraft:tripwire_hook" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "gun:grenade_launcher",
+    "count": 1
+  }
+}

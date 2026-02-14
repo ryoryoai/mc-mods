@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "guns",
+  "version": "2.0.0",
+  "name": "Guns",
+  "description": "マグナム・リボルバー・グレネードランチャー・弾丸システム統合MOD",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.guns.GunsMod"],
+    "client": ["com.example.guns.client.GunsModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

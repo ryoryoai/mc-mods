@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MM",
+    "MS",
+    " S"
+  ],
+  "key": {
+    "M": { "item": "minecraft:iron_ingot" },
+    "S": { "item": "minecraft:lightning_rod" }
+  },
+  "result": {
+    "item": "axe:thunder_axe",
+    "count": 1
+  }
+}
